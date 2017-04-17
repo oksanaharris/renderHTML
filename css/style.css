@@ -1,0 +1,123 @@
+div {
+  /*border: solid 1px black;*/
+  font-family: Roboto;
+}
+
+.content {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 40px;
+  border: solid 2px #D2D3D3;
+  border-style: solid;
+}
+
+.contentbody {
+  padding: 20px 40px;
+}
+
+.headers {
+  padding: 20px 40px;
+  background-color: #E9EAE9;
+  line-height: 40%;
+}
+
+h2 {
+  color: grey;
+}
+
+#firstheader {
+  background-color: #27AAC1;
+}
+
+#firstbody {
+  background-color: #D0F6FC;
+}
+
+#firsth2 {
+  color: white;
+}
+
+#slayer {
+  display: inline;
+  float: right;
+  height: 100px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+/*.pslayer {
+  display: inline;
+}*/
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: solid 1px #D2D3D3;
+}
+
+td, th {
+  padding: 10px;
+}
+
+#tableheader {
+  background-color: #E9EAE9;
+  border: solid 1px #D2D3D3;
+}
+
+tr, td, th {
+  border: none;
+  text-align: left;
+}
+
+th {
+  color: grey;
+}
+
+.footer {
+  text-align: center;
+  font-size: 14px;
+}
+
+.input {
+  width: 100%;
+  border: solid 1px #D2D3D3;
+  font-size: 16px;
+  color: #27AAC1;
+  padding-left:5px;
+
+}
+
+input {
+  margin-bottom: 15px;
+}
+
+#noradio {
+  margin-left: 45%;
+}
+
+#emailinput {
+  height:35px;
+}
+
+#messageinput {
+    padding-top:5px;
+}
+
+/*#foodselect {
+  height: 30px;
+} */
+
+#checkbox {
+  font-size: 18px;
+  padding: 10px;
+} 
+
+/*couldn't get these to work*/
+
+hr {
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: #27AAC1;
+  height: 10px;
+  border-style: none;
+}
