@@ -3,6 +3,32 @@ div {
   font-family: Roboto;
 }
 
+#header {
+  width: 30%;
+  margin: auto;
+  margin-top: 60px;
+  text-align:center;
+  line-height: 60%
+}
+
+.navLink{
+  color: #27AAC1;
+  font-size: 18px;
+  text-decoration:none;
+}
+
+#navMenu{
+  padding-left: 10px;
+}
+
+.navList {
+  display: inline-block;
+  border: solid 1px #D2D3D3;
+  margin: 0px 1px;
+  padding: 7px 5px;
+  background-color: #D0F6FC;
+}
+
 .content {
   margin-left: 5%;
   margin-right: 5%;
